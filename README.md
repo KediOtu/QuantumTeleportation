@@ -1,7 +1,7 @@
 # Quantum Teleportation
 
 Quantum teleportation is a technique for transferring quantum information from a sender at one location to a receiver some distance away. I wanted to share a simple example for it with quantum computing.
-I have uploaded Jupyter Notebook file also a Python file. You can see the circuit and the histogram on Jupyter Notebook.
+I have uploaded Jupyter Notebook file and also a Python file. You can see the circuit and the histogram on Jupyter Notebook.
 
 ## Description
 
